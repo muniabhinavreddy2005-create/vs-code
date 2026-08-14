@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+</head>
+<body>
+
+    <h1>Student Profile</h1>
+
+    <p><b>Name:</b> Abhinav</p>
+    <p><b>Course:</b> Computer Science</p>
+    <p><b>College:</b> ABC College</p>
+
+    <h2>My Skills</h2>
+
+    <ol>
+        <li>HTML</li>
+        <li>Java</li>
+        <li>Python</li>
+    </ol>
+
+    <h2>Contact</h2>
+    <p>Email: student@example.com</p>
+
+    <hr>
+
+    <p>Thank you for visiting!</p>
+
+</body>
+</html>
